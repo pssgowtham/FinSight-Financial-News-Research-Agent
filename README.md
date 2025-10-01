@@ -1,4 +1,5 @@
 # FinSight-Financial-News-Research-Assistant
+<<<<<<< HEAD
 
 FinSight is a user-friendly research assistant designed to simplify financial news analysis. Users can load article URLs, process their content, and interact with an AI system to extract insights related to the stock market and business trends.
 
@@ -57,3 +58,6 @@ OPENAI_API_KEY=your_openai_api_key_here
 ## 📝 License
 
 This project is for educational and research purposes only.
+=======
+FinSight is a user-friendly research assistant designed to simplify financial news analysis. Users can load article URLs, process their content, and interact with an AI system to extract insights related to the stock market and business trends.
+>>>>>>> origin/main
