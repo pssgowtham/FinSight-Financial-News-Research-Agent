@@ -6,7 +6,7 @@ FinSight is a user-friendly research assistant designed to simplify financial ne
 ## 🚀 Features
 - Load and process financial news articles from URLs  
 - Summarize articles with sources  
-- Ask natural language questions about stock market and business trends  
+- Ask natural language questions about the stock market and business trends  
 - Perform calculations (percentages, growth rates, ratios, etc.)  
 - Search the web for the latest financial information  
 - Interactive chat-style UI with auto-scroll  
@@ -18,7 +18,7 @@ FinSight/
 │── backend/        # All LLM, tools, and retrieval logic
 │── frontend/       # Streamlit UI and chat interface
 │── requirements.txt
-│── main.py         # Entry point
+│── app.py         # Entry point
 │── .env            # API keys and environment variables
 
 ````
@@ -44,7 +44,7 @@ playwright install
 ## ▶️ Run the App
 
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 
 ## 🔑 Environment Variables
